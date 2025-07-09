@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac & Windows
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+*.env
+
+# pip wheel caches
+*.whl
+pip-wheel-metadata/
+
+# Data files (optional: comment out if you want to track datasets)
+*.csv
+*.tsv
+*.data
+*.dat
+*.arff
+
+# Model files (optional: comment if you want to track trained models)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# GitHub actions & coverage (optional)
+coverage/
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
