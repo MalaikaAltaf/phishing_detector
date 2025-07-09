@@ -49,14 +49,9 @@ cd phishing_detector
 ### 📦 Set up virtual environment (optional but recommended)
 It is recommended to use a virtual environment to isolate your dependencies:
 
-```bash
 python -m venv env
 ![image](https://github.com/user-attachments/assets/3f4bce05-97a0-4cc1-b6a3-a304f5ef1428)
 
-![image](https://github.com/user-attachments/assets/afbd6b5e-02ab-40fc-a8c0-fef8375cdca7)
 
-![image](https://github.com/user-attachments/assets/5ff83606-274b-4373-81a4-627bc4a0c224)
-
-![image](https://github.com/user-attachments/assets/d5d2c15b-b9eb-4ba2-a7d6-29de23ee9835)
 
 
