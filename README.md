@@ -40,6 +40,95 @@ The model is trained on URL-based features using **Logistic Regression** in Jupy
 ## 🛠️ Installation
 
 ### Clone the repository
+Here’s the **nicely formatted full `.md` content** for just the **Setup & Run sections** with the parts you highlighted — ready to copy into your README or keep separate:
+
+---
+
+````markdown
+## 🛠️ Setup & Installation
+
+### 📦 Set up virtual environment (optional but recommended)
+It is recommended to use a virtual environment to isolate your dependencies.
+
+Create a virtual environment:
+```bash
+python -m venv env
+````
+
+---
+
+### 🖥️ Activate the virtual environment
+
+* On **Linux/Mac**:
+
+  ```bash
+  source env/bin/activate
+  ```
+
+* On **Windows**:
+
+  ```bash
+  env\Scripts\activate
+  ```
+
+---
+
+## 📥 Install dependencies
+
+Install all required Python packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 Run the app
+
+Start the Flask server:
+
+```bash
+python app.py
+```
+
+Then open your browser and navigate to:
+🌐 [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
+---
+
+## 🧪 Model Training
+
+The model was trained in **Jupyter Notebook** using:
+
+* 📈 Logistic Regression
+* 📝 30 URL-based features
+
+The trained model is saved as:
+
+```
+phishing_model.pkl
+```
+
+---
+
+## 📄 Requirements
+
+All dependencies are listed in `requirements.txt`.
+The main libraries used in this project are:
+
+* Flask
+* scikit-learn
+* pandas
+* numpy
+
+---
+
+## 🌟 Screenshot / Demo
+
+![image](https://github.com/user-attachments/assets/bca53330-1e17-41ac-902d-bc3ec3282fae)
+
+
+
 
 
 
