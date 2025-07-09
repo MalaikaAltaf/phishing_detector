@@ -40,17 +40,7 @@ The model is trained on URL-based features using **Logistic Regression** in Jupy
 ## 🛠️ Installation
 
 ### Clone the repository
-```bash
-git clone https://github.com/MalaikaAltaf/phishing_detector.git
-cd phishing_detector
 
-## 🛠️ Setup & Installation
-
-### 📦 Set up virtual environment (optional but recommended)
-It is recommended to use a virtual environment to isolate your dependencies:
-
-python -m venv env
-![image](https://github.com/user-attachments/assets/3f4bce05-97a0-4cc1-b6a3-a304f5ef1428)
 
 
 
